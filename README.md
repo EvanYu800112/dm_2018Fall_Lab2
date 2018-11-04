@@ -7,8 +7,7 @@ This repository contains all the instructions and necessary code for Data Mining
     
         $ git clone https://github.com/EvanYu800112/dm_2018Fall_Lab2.git
         
-* **Download by link:**  
-dm_2018Fall_Lab2: [download link](https://github.com/EvanYu800112/dm_2018Fall_Lab2/archive/master.zip)
+* **Download zip file:**  [download link](https://github.com/EvanYu800112/dm_2018Fall_Lab2/archive/master.zip)
 
 ---
 #### Libraries requirements
