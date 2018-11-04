@@ -18,8 +18,8 @@ Here is a list of the new required python libraries necessary for this lab sessi
 
 #### Pre-trained model requirements
 
-GoogleNews-vectors-negative300: [download link](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing)  
-The data size is around 1.5GB, and you **do NOT need** to decompress it.
+`GoogleNews-vectors-negative300.bin.gz`: [download link](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing)  
+The data size is around 1.5GB, download it and put in `./GoogleNews/` directory. You **do NOT need** to decompress it.
 
 ---
 
