@@ -1,6 +1,11 @@
 ## Lab2 For Data Mining 2018 Fall @ NTHU
 This repository contains all the instructions and necessary code for Data Mining 2018 (Fall) lab session 2.
-
+You could download this repository by:
+1. git command 
+git clone https://github.com/EvanYu800112/dm_2018Fall_Lab2.git
+or 
+2. by link 
+https://github.com/EvanYu800112/dm_2018Fall_Lab2/archive/master.zip
 ---
 #### Libraries Requirements
 Here is a list of the required programs and libraries necessary for this lab session: 
