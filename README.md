@@ -2,7 +2,7 @@
 This repository contains all the instructions and necessary code for Data Mining 2018 (Fall) lab session 2.
 
 ---
-#### Software Requirements
+#### Libraries Requirements
 Here is a list of the required programs and libraries necessary for this lab session: 
 
 `tensorflow`, `keras`, `gensim`, `scikit-learn`
