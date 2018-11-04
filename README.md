@@ -3,18 +3,23 @@ This repository contains all the instructions and necessary code for Data Mining
 
 ---  
 #### Clone or Download this repository
-* **Git Clone:**    
+* **Git clone:**    
     
         $ git clone https://github.com/EvanYu800112/dm_2018Fall_Lab2.git
         
 * **Download by link:**  
-https://github.com/EvanYu800112/dm_2018Fall_Lab2/archive/master.zip
+dm_2018Fall_Lab2: [download link](https://github.com/EvanYu800112/dm_2018Fall_Lab2/archive/master.zip)
 
 ---
-#### Libraries Requirements
-Here is a list of the new required python libraries necessary for this lab session: 
+#### Libraries requirements
+Here is a list of the new required python libraries necessary for this lab session:   
+`tensorflow`, `keras`, `gensim`, `scikit-learn`    
 
-`tensorflow`, `keras`, `gensim`, `scikit-learn`
+
+#### Pre-trained model requirements
+
+GoogleNews-vectors-negative300: [download link](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing)  
+The data size is around 1.5GB, and you **do NOT need** to decompress it.
 
 ---
 
