@@ -2,21 +2,23 @@
 This repository contains all the instructions and necessary code for Data Mining 2018 (Fall) lab session 2.
 
 ---  
-#### Download this repository
-* **by git command:**    
-git clone https://github.com/EvanYu800112/dm_2018Fall_Lab2.git
-* **by link:**  
+#### Clone or Download this repository
+* **Git Clone:**    
+    
+        $ git clone https://github.com/EvanYu800112/dm_2018Fall_Lab2.git
+        
+* **Download by link:**  
 https://github.com/EvanYu800112/dm_2018Fall_Lab2/archive/master.zip
 
 ---
 #### Libraries Requirements
-Here is a list of the required programs and libraries necessary for this lab session: 
+Here is a list of the new required python libraries necessary for this lab session: 
 
 `tensorflow`, `keras`, `gensim`, `scikit-learn`
 
 ---
 
-#### test script
+#### Test script
 Open a Jupyter notebook and run the following commands. If you have properly installed all the necessary libraries you should see no error.
 
 ``` python3 
