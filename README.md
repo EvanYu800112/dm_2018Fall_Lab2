@@ -43,5 +43,11 @@ import keras
 https://github.com/EvanYu800112/dm_2018Fall_Lab2/blob/master/Lab02_part1.ipynb
 https://github.com/EvanYu800112/dm_2018Fall_Lab2/blob/master/Lab02_part2.ipynb
 
+---
+#### Kaggle kernel version Jupyter Notebook
+* part 1  
+https://www.kaggle.com/evanyu800112/dm-2018fall-lab2-part1?scriptVersionId=7078126
 
+* part 2   
+https://www.kaggle.com/evanyu800112/dm-2018fall-lab2-p2?scriptVersionId=7081200 
 
