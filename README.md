@@ -53,3 +53,15 @@ https://www.kaggle.com/evanyu800112/dm-2018fall-lab2-part1?scriptVersionId=70781
 * part 2   
 https://www.kaggle.com/evanyu800112/dm-2018fall-lab2-p2?scriptVersionId=7081200 
 
+
+---
+#### References
+* Deep Learning for NLP Python Notebooks in PyTorch and TensorFlow:    
+https://github.com/omarsar/nlp_pytorch_tensorflow_notebooks
+
+ 
+* Data Mining Lab Session 2 (Fall 2017):   
+https://github.com/omarsar/data_mining_lab_fall_2
+
+
+
