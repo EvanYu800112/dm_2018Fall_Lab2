@@ -41,9 +41,9 @@ import keras
 ---
 #### Preview of Complete Jupyter Notebook
 * part 1  
-https://github.com/EvanYu800112/dm_2018Fall_Lab2/blob/master/Lab02_part1.ipynb
+https://nbviewer.jupyter.org/github/EvanYu800112/dm_2018Fall_Lab2/blob/master/Lab02_part1.ipynb
 * part 2    
-https://github.com/EvanYu800112/dm_2018Fall_Lab2/blob/master/Lab02_part2.ipynb
+https://nbviewer.jupyter.org/github/EvanYu800112/dm_2018Fall_Lab2/blob/master/Lab02_part2.ipynb
 
 ---
 #### Kaggle kernel version Jupyter Notebook
